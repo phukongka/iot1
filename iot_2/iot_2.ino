@@ -31,6 +31,6 @@ void loop() { //HIGH = 1 LOW =0
     led2 = led2 == 0 ? 1 :0; //toggle
     digitalWrite(led2_pin, led2); 
     Serial.printf("Arnon =%d\n",led2);
-    Serial.printf("Arnon");
+    Serial.printf("Chinsang");
     }
 }

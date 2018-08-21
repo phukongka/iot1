@@ -31,6 +31,10 @@ void loop() { //HIGH = 1 LOW =0
     led2 = led2 == 0 ? 1 :0; //toggle
     digitalWrite(led2_pin, led2); 
     Serial.printf("LED2 =%d\n",led2);
+<<<<<<< HEAD
+    Serial.printf("Watchara");
+=======
     Serial.printf("khukkhuk");
+>>>>>>> 7378d4c327929dcc98e53a1b90787165c54deae0
     }
 }

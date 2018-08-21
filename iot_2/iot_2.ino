@@ -31,7 +31,7 @@ void loop() { //HIGH = 1 LOW =0
     t2 = t; // reset เวลา
     led2 = led2 == 0 ? 1 :0; //toggle
     digitalWrite(led2_pin, led2); 
-    Serial.printf("LED2 =%d\n",led2);
-    Serial.printf("POPKUP");
+    Serial.printf("Arnon =%d\n",led2);
+    Serial.printf("Chinsang");
     }
 }

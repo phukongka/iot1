@@ -37,6 +37,9 @@ void loop() { //HIGH = 1 LOW =0
     Serial.printf("khukkhuk");
     =======
     Serial.printf("Tar");
+
+    
+    Serial.printf("--->Pae<---");
 >>>>>>> 7378d4c327929dcc98e53a1b90787165c54deae0
     }
 }

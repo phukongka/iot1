@@ -1,4 +1,3 @@
-//charnvit
 int led1_pin=25;
 int led2_pin=27;
 int led1= 0;
@@ -36,11 +35,8 @@ void loop() { //HIGH = 1 LOW =0
     Serial.printf("Watchara");
 =======
     Serial.printf("khukkhuk");
-    =======
-    Serial.printf("Tar");
-
-    Serial.printf("POPPOPPOPPOPPOPPOPPOPPOP");
-    Serial.printf("--->Pae<---");
 >>>>>>> 7378d4c327929dcc98e53a1b90787165c54deae0
+    Serial.printf("Lex Lnw SIR 001");
+
     }
 }
